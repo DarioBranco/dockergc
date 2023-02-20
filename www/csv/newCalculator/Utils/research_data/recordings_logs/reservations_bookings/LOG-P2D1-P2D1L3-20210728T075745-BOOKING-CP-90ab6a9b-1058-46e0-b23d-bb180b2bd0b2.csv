@@ -1,0 +1,2 @@
+﻿ReqID;CPID;LOC;ChrgSessID;Time;EVID;Conn;EventType;Status;ChrgConstraint;PriceModelID;TariffID;SwID
+2cb1d075678c46aebde09fbe06e273da;90ab6a9b-1058-46e0-b23d-bb180b2bd0b2;P2D1L3;2cb1d075678c46aebde09fbe06e273da;20210728T075745;9c2a9716-f82f-4d27-b83c-b314341dc47a;"Type 2";Initial;Confirmed;"{\"EST\":null,\"LFT\":\"20210728T140000\",\"EnergyStart\":13.565,\"EnergyEnd\":26.894,\"EnergyMin\":4.844849999999999,\"SOCStart\":0.42,\"SOCEnd\":null,\"Priority\":0.3,\"V2G\":false}";9f47cfe4-19f9-4aab-b021-d03214749d86;69ed5b2a-89f8-4ce9-8633-abc3bba974fa;pmc-gc-data-exporter

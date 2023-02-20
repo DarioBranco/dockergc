@@ -1,0 +1,4 @@
+CPID;LOC;CPName;EntryTime;ExitTime;ChrgCap;Com;Connector
+8d2cde28-52e5-4b92-a88d-4d316136785e;P3D2L1;EUT-CDV-0-01;20200901T000000;NULL;2.2;Smart Energy Management;""[{\CPType\"""":\""""AC\"""",\""""ConnectorType\"""":\""""Schucko\""""}]"""""""
+52a875cc-74ad-410c-833d-adebceaa49ba;P3D2L1;EUT-CDV-0-02;20200901T000000;NULL;2.2;Smart Energy Management;""[{\CPType\"""":\""""AC\"""",\""""ConnectorType\"""":\""""Schucko\""""}]"""""""
+cdbbd5df-09e9-4772-8712-71143a54f6bc;P3D2L2;EUT-MNR-0-01;20210701T000000;NULL;3.4;Smart Energy Management;""[{\CPType\"""":\""""AC\"""",\""""ConnectorType\"""":\""""Schucko\""""}]"""""""

@@ -1,0 +1,31 @@
+from sqlalchemy import Column, Integer, String, Text
+from sqlalchemy.ext.declarative import declarative_base
+
+Base = declarative_base()
+class grid_mix_in_public_grid(Base):
+	__tablename__ = 'grid_mix_in_public_grid'
+	id = Column(Integer, primary_key=True)
+	LOC = Column(Text)
+	Time = Column(Text)
+	Start = Column(Text)
+	End = Column(Text)
+	Biomass = Column(Text)
+	Lignite = Column(Text)
+	Coal = Column(Text)
+	Gas = Column(Text)
+	HardCoal = Column(Text)
+	Oil = Column(Text)
+	Shale = Column(Text)
+	Peat = Column(Text)
+	OtherFossil = Column(Text)
+	Geothermal = Column(Text)
+	HydroPumped = Column(Text)
+	Hydro = Column(Text)
+	Marine = Column(Text)
+	Nuclear = Column(Text)
+	OtherRES = Column(Text)
+	Solar = Column(Text)
+	Waste = Column(Text)
+	WindOffShore = Column(Text)
+	WindOnShore = Column(Text)
+	SwID = Column(Text)

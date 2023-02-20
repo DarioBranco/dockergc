@@ -1,0 +1,2 @@
+MakeM;Year;Type;PeakPower;Size;Noct;Albedo;TempCoeffP;TempCoeffU;TempCoeffI
+PVModel1;2019;poly crystalline;70;393;42;NULL;-0.37;-0.29;0.05

@@ -1,0 +1,2 @@
+SolarPlantID;LOC;EntryTime;ExitTime;PeakPower;BatteryID;InvMakeM;InvNum;PVpanels
+SolarPVRoof;P1D1L1;20200603T190000;NULL;72;BatInd1;SolarInv1;1;"[{\MakeM\"":\""PVModel1\"",\""No\"":120,\""Azimuth\"":-90,\""Tilt\"":10},{\""MakeM\"":\""PVModel1\"",\""No\"":120,\""Azimuth\"":90,\""Tilt\"":10}]"""

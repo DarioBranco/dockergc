@@ -1,0 +1,2 @@
+SolarPlantID;LOC;EntryTime;ExitTime;PeakPower;BatteryID;InvMakeM;InvNum;PVpanels
+dde0ccbb-fa4b-4ad1-9df0-d029d61d6221;P3D2L2;20180829T000000;NULL;6.48;NULL;"SMA-Sunny Tripower 6000TL-20";1;[{MakeM:"Conergy PowerPlus 240P",Num:27,Azimuth:-60,Tilt:20}]

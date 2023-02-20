@@ -1,0 +1,5 @@
+MakeM;MaxRes;Type
+"GV350 Queclink";event-based;[geolocation, SoC, voltage, current, Temperature]
+"ACSensor-Prototype";60;"electricity consumption"
+"DCSensor-Prototype";60;"electricity production"
+

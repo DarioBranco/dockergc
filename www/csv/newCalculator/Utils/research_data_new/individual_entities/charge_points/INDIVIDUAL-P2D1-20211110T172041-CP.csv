@@ -1,0 +1,10 @@
+﻿CPID;LOC;CPName;EntryTime;ExitTime;ChrgCap;Com;Connector
+350d1c11-ba47-4aab-90b5-3687e56d060f;P2D1L1;outlet1;20200101T122144;null;22;"smart energy management";"[{\"CPType\":\"AC\",\"ConnectorType\":\"Type 2\"}]"
+31ba8290-124a-422d-a875-3b5a257e2510;P2D1L1;outlet2;20200101T122144;null;22;"smart energy management";"[{\"CPType\":\"AC\",\"ConnectorType\":\"Type 2\"}]"
+d2636742-7dcd-4b78-a6e9-b7dfbf4dc52b;P2D1L1;outlet3;20200101T122144;null;11;"smart energy management";"[{\"CPType\":\"AC\",\"ConnectorType\":\"Type 2\"}]"
+817fcdbb-062f-4a71-bf45-eccff6186955;P2D1L4;"dbt triplecharger";20200101T122144;null;43;null;"[{\"CPType\":\"AC\",\"ConnectorType\":\"Type 2\"}]"
+329068b3-0b28-4e1e-a326-a0962dd6e11f;P2D1L4;"dbt triplecharger";20200101T122144;null;44;null;"[{\"CPType\":\"DC\",\"ConnectorType\":\"CCS-combo\"}]"
+96601745-7514-4240-bf39-4427ef79ec6b;P2D1L4;"dbt triplecharger";20200101T122144;null;44;null;"[{\"CPType\":\"DC\",\"ConnectorType\":\"CHAdeMO\"}]"
+db866d2b-2ffe-4f94-bcf9-b5e24c9eea44;P2D1L2;outlet1;20200101T122144;null;22;null;"[{\"CPType\":\"AC\",\"ConnectorType\":\"Type 2\"}]"
+90ab6a9b-1058-46e0-b23d-bb180b2bd0b2;P2D1L3;wallbox1;20200101T122144;null;11;;"[{\"CPType\":\"AC\",\"ConnectorType\":\"Type 2\"}]"
+4f7e3337-6cd4-42fb-a193-d9115927069b;P2D1L3;wallbox2;20200101T122144;null;11;;"[{\"CPType\":\"AC\",\"ConnectorType\":\"Type 2\"}]"

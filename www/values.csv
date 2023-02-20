@@ -1,0 +1,30 @@
+NoOne Energy_Mix
+NoOne Energy_Costs
+NoOne Energy_import_export
+NoOne battery_sessions
+P3D1-P3D1L1 ev_charging_discharging 6 6 0
+NoOne heating_cooling_sessions
+NoOne solar_plant_sessions
+NoOne washing_sessions
+NoOne reservations_bookings
+NoOne payment_information
+NoOne weather_data
+NoOne batteries_model
+EVDB evs_model 1 1 0
+NoOne heating_cooling_devices_model
+NoOne inverters_model
+NoOne pv_panels_model
+P3D1-20220210T161000 sensors_model 1 1 0
+NoOne washing_machines_model
+NoOne batteries_individual
+P3D1-20220210T160000 evs_individual 1 1 0
+NoOne heating_cooling_individual
+NoOne pv_panels_individual
+NoOne sensors_individual
+NoOne washing_machines_individual
+P3D1-20220210T160000 charge_points_individual 1 1 0
+P3D1-20220210T160000 energy_meters_individual 1 1 0
+NoOne locations_individual
+P3D1-20220210T160000 price_list_individual 1 1 0
+P3D1-20220210T160000 sw_sys_individual 1 1 0
+P3D1-20220210T160000 tariffs_individual 1 1 0

@@ -1,0 +1,4 @@
+PriceModelID;LOC;Type;EntryTime;ExitTime;Payer;Receiver;TariffID
+EnergyMeterRent1;P3D1L1;Service;20180301T000000;;Fleet operator;Electricity retailer;PricePerDay1
+PowerContracted1;P3D1L1;Transfer of energy;20180301T000000;;Fleet operator;Electricity retailer;[kWhPeak1, kWhValley1]
+ElectricityConsumption1;P3D1L1;Electricity;20180301T000000;;Fleet operator;Electricity retailer;ElectPrice1

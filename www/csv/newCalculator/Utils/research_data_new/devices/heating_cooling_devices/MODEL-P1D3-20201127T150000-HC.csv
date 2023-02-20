@@ -1,0 +1,5 @@
+MakeM;Type;PowerLevel
+DHW_Tank;hot-water tank;10
+DHW_HeatP;heat pump;10
+RoomHeater;heater;0.10
+HeaterCable;Heater cable;0.10

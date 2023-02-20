@@ -1,0 +1,75 @@
+start***********************************
+Error function: checkIndividual 
+Error Code:Incorrect number of bindings supplied. The current statement uses 11, and there are 12 supplied.
+File: INDIVIDUAL-P1D2-20220215T164500-TARIFF.csv
+***********************************
+***********************************
+Error function: checkIndividual 
+Error Code:Incorrect number of bindings supplied. The current statement uses 11, and there are 12 supplied.
+File: INDIVIDUAL-P1D2-20220215T164500-TARIFF.csv
+***********************************
+***********************************
+Error function: InsertInDB 
+Error Code:Incorrect number of bindings supplied. The current statement uses 6, and there are 5 supplied.
+File: LOG-P2D1-P2D1L1-20210901T000000-ENCHAR-IMP-EXP-ee9e2f15-475d-4d7e-9c41-407d90af7afe_copy.csv
+***********************************
+***********************************
+Error function: InsertInDB 
+Error Code:Incorrect number of bindings supplied. The current statement uses 7, and there are 6 supplied.
+File: LOG-P2D1-P2D1L1-20210901T000000-ENERGY-PV-65c8f088-633d-4a87-9f07-e6f92f0e63c9_copy.csv
+***********************************
+***********************************
+Error function: InsertInDB 
+Error Code:Incorrect number of bindings supplied. The current statement uses 10, and there are 9 supplied.
+File: LOG-P1D3-P1D3L15-20210901T130000-ENERGY-HC-Hotwater2_copy.csv
+***********************************
+***********************************
+Error function: InsertInDB 
+Error Code:Incorrect number of bindings supplied. The current statement uses 10, and there are 9 supplied.
+File: LOG-P1D3-P1D3L13-20210901T130000-ENERGY-HC-Hotwater2_copy.csv
+***********************************
+***********************************
+Error function: InsertInDB 
+Error Code:Incorrect number of bindings supplied. The current statement uses 10, and there are 9 supplied.
+File: LOG-P1D3-P1D3L15-20210910T000000-ENERGY-HC-Hotwater2_copy.csv
+***********************************
+***********************************
+Error function: InsertInDB 
+Error Code:Incorrect number of bindings supplied. The current statement uses 10, and there are 9 supplied.
+File: LOG-P1D3-P1D3L13-20210910T000000-ENERGY-HC-Hotwater2_copy.csv
+***********************************
+***********************************
+Error function: InsertInDB 
+Error Code:Incorrect number of bindings supplied. The current statement uses 8, and there are 7 supplied.
+File: LOG-P2D1-P2D1L1-20210901T000000-ENERGY-BAT-023ba88f-65fe-4424-a04e-1301940851ec_copy.csv
+***********************************
+***********************************
+Error function: checkLog 
+Error Code:time data '96+' does not match format '%Y%m%dT%H%M%S'
+File: LOG-P1D1-P1D1L1-20210401T000000-ENERGY-BAT-BatInd1.csv
+***********************************
+***********************************
+Error function: InsertInDB 
+Error Code:unrecognized token: "1CPID"
+File: LOG-P1D1-P1D1L1-20211102T133817-ENERGY-CHARGE-b1c51d8c_copy.csv
+***********************************
+***********************************
+Error function: InsertInDB 
+Error Code:Incorrect number of bindings supplied. The current statement uses 19, and there are 18 supplied.
+File: LOG-P2D1-P2D1L3-20210713T172320-ENERGY-CHARGE-4f7e3337-6cd4-42fb-a193-d9115927069b_copy.csv
+***********************************
+***********************************
+Error function: InsertInDB 
+Error Code:Incorrect number of bindings supplied. The current statement uses 19, and there are 18 supplied.
+File: LOG-P2D1-P2D1L1-20211005T123336-ENERGY-CHARGE-31ba8290-124a-422d-a875-3b5a257e2510_copy.csv
+***********************************
+***********************************
+Error function: InsertInDB 
+Error Code:Incorrect number of bindings supplied. The current statement uses 19, and there are 18 supplied.
+File: LOG-P2D2-P2D2L2-20210708T075410-ENERGY-CHARGE-CPLP2_copy.csv
+***********************************
+***********************************
+Error function: InsertInDB 
+Error Code:Incorrect number of bindings supplied. The current statement uses 19, and there are 18 supplied.
+File: LOG-P2D1-P2D1L3-20210713T172257-ENERGY-CHARGE-4f7e3337-6cd4-42fb-a193-d9115927069b_copy.csv
+***********************************

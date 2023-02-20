@@ -1,0 +1,2 @@
+ReqID;CPID;LOC;ChrgSessID;Time;EVID;Conn;EventType;Status;ChrgConstraint;PriceModelID;TariffID;SwID
+b1601e2a;c1018031;P1D1L1;2652686967062799;20220114T224616;60c89062a0cedb1a892fe1b0;"Type 2";Initial;Confirmed;{"EST":"20220114T223616","LFT":"20220115T043616","EnergyStart":"UNKNOWN","EnergyEnd":"UNKNOWN","EnergyMin":"UNKNOWN","SOCStart":"UNKNOWN","SOCEnd":"UNKNOWN","Priority":"0","V2G":"UNKNOWN"};Charging1;ChrPrice1;V2.0.5(15)

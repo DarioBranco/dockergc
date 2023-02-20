@@ -1,0 +1,3 @@
+﻿SolarPlantID;LOC;EntryTime;ExitTime;PeakPower;BatteryID;InvMakeM;InvNum;PVpanels
+65c8f088-633d-4a87-9f07-e6f92f0e63c9;P2D1L1;20200101T122144;null;11.76;null;9216fa93-f2e8-4ad1-8d45-9567379ca2db;1;"[{\"MakeM\":\"9e4f72f7-025e-4889-a8ae-3ee1faf2f00c\",\"Num\":48,\"Azimuth\":20,\"Tilt\":10}]"
+b734beb8-cd3a-4e19-a0b7-e9ef1d0e4275;P2D1L3;20200101T122144;null;4.8;null;b9f048fe-2cec-458c-9ac2-a2cfb1797879;1;"[{\"MakeM\":\"1266fb8c-ee31-44ca-96c1-9afa73ec573c\",\"Num\":24,\"Azimuth\":20,\"Tilt\":10}]"

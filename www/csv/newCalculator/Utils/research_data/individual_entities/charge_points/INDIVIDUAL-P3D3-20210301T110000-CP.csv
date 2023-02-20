@@ -1,0 +1,6 @@
+CPID;LOC;CPName;EntryTime;ExitTime;ChrgCap;Com;Connector
+ae988909-dac7-4df3-ba8f-44c207ac48ce;P3D3L1;ENCH-SQV-0-01;20200901T000000;NULL;0.084;Smart Energy Management;""[{\CPType\"""":\""""DC\"""",\""""ConnectorType\"""":\""""Custom\""""}]"""""""
+cd6b5d27-1e4e-4200-95a0-efc0c59105ad;P3D3L1;ENCH-SQV-0-02;20200901T000000;NULL;0.084;Smart Energy Management;""[{\CPType\"""":\""""DC\"""",\""""ConnectorType\"""":\""""Custom\""""}]"""""""
+17844373-b098-47bb-88d6-c4cb5a62d00e;P3D3L1;ENCH-SQV-0-03;20200901T000000;NULL;0.084;Smart Energy Management;""[{\CPType\"""":\""""DC\"""",\""""ConnectorType\"""":\""""Custom\""""}]"""""""
+44d10ace-27ce-4fec-b176-eca482adcf41;P3D3L1;ENCH-SQV-0-04;20200901T000000;NULL;0.084;Smart Energy Management;""[{\CPType\"""":\""""DC\"""",\""""ConnectorType\"""":\""""Custom\""""}]"""""""
+293046a3-f503-4dbc-a8ef-5d54eaebc204;P3D3L1;ENCH-SQV-0-05;20200901T000000;NULL;0.084;Smart Energy Management;""[{\CPType\"""":\""""DC\"""",\""""ConnectorType\"""":\""""Custom\""""}]"""""""

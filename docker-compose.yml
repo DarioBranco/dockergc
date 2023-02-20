@@ -1,0 +1,37 @@
+version: '3'
+
+services:
+  db:
+      container_name: db
+      image: mysql
+      restart: always
+      command: --default-authentication-plugin=mysql_native_password
+      environment:
+          MYSQL_ROOT_PASSWORD: MYSQL_ROOT_PASSWORD
+          MYSQL_DATABASE: MYSQL_DATABASE
+          MYSQL_USER: MYSQL_USER
+          MYSQL_PASSWORD: MYSQL_PASSWORD
+      volumes:
+          - ./sqldump:/docker-entrypoint-initdb.d
+
+  apache:
+    build:
+        context: ./www
+        dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    volumes:
+      - ./www:/var/www/html/
+    depends_on:
+        - db
+    # Add the following lines to install PHP and configure Apache to use it
+
+  phpmyadmin:
+      image: phpmyadmin/phpmyadmin
+      ports:
+          - '8081:80'
+      restart: always
+      environment:
+          PMA_HOST: db
+      depends_on:
+          - db

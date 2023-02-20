@@ -1,0 +1,2 @@
+SolarPlantID;LOC;EntryTime;ExitTime;PeakPower;BatteryID;InvMakeM;InvNum;PVpanels
+64745179-315f-4587-832e-2177f66ca356;P3D3L1;20200901T000000;NULL;0.7;fa6b4786-7a7d-11eb-9439-0242ac130002;"SMA SMC7000TL";1;[{MakeM:"Schuco MPE 350 MP 05-1",Num:2,Azimuth:-75,Tilt:5}]

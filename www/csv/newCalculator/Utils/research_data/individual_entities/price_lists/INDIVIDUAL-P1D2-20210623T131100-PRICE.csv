@@ -1,0 +1,12 @@
+PriceModelID;LOC;Type;EntryTime;ExitTime;Payer;Receiver;TariffID
+GridTariff1;P1D2L1;Transfer of energy;20200101T000000;;Property owner/renter;DSO;[TimeOfUseWinter1, TimeOfUseSummer1]
+FixedGridTariff1;P1D2L1;Transfer of energy;20200101T000000;;Property owner/renter;DSO;FixedPrice1
+PeakTariff1;P1D2L1;Transfer of energy;20200101T000000;;Property owner/renter;DSO;[TimeOfUse1, TimeOfUse2, TimeOfUse3, TimeOfUse4]
+ElectricityTariff1;P1D2L1;Electricity;20200101T000000;;Property owner/renter;Electricity retailer;ElecPrice1
+Charging1;P1D2L1;Charging;20200101T000000;;EV User;Property owner/Renter;BookingFee1
+Charging1;P1D2L1;Charging;20200101T000000;;EV User;Property owner/Renter;BlockingFee1
+Charging1;P1D2L1;Charging;20200101T000000;;EV User;Property owner/Renter;ParkingFee1
+Charging1;P1D2L1;Charging;20200101T000000;;EV User;CPO;SubcriptionFee1
+Charging1;P1D2L1;Charging;20200101T000000;;EV User;CPO;ChrPrice1
+Service1;P1D2L1;Service;20200101T000000;;CPO;Property owner/Renter;ServiceFee1
+Service2;P1D2L1;Service;20200101T000000;;Property owner/Renter;CPO;ServiceFee2

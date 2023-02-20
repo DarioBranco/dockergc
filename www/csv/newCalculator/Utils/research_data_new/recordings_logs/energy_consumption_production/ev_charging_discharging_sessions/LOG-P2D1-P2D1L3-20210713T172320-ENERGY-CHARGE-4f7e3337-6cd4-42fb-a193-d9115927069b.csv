@@ -1,0 +1,2 @@
+﻿CPID;LOC;ChrgSessID;Time;EVID;PluginTime;PlugoutTime;SOCStart;SOCEnd;ChrgTime;MaxChACPower;MaxChDCPower;MaxDischACPower;MaxDischDCPower;SwID;PowerCh
+4f7e3337-6cd4-42fb-a193-d9115927069b;P2D1L3;21deef6999be4de48e8a5fc2c4abe852;20210713T172320;4186aec5-f72b-4123-812f-1a092932822f;20210713T172323;20210713T172330;0.5;;00:0:7;;0;0;0;pmc-gc-data-exporter;0
